@@ -1,5 +1,5 @@
 # VRChat 8 Ball source mirror
-Release v1.0.0 (quest compatible) here: https://mega.nz/file/DlJkzDZZ#TtZpdhwZ8nljycXiY0_oaH7occfctaaaZ468R2i4LCs
+Release v1.0.0 (quest compatible) here: https://mega.nz/file/DlJkzDZZ#TtZpdhwZ8nljycXiY0_oaH7occfctaaaZ468R2i4LCs <br>
 Original world: https://vrchat.com/home/world/wrld_d02883d1-7d79-4d51-87e2-b318ca4c2b37
 
 ![](https://i.imgur.com/3cHrbf1.jpg)
